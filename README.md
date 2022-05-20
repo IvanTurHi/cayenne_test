@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/18fCG49N3CPBxYIdQQHqV6W3kvUU7HTWx?usp=sh
 
 # Ссылка на статью авторов cyaenne
 https://www.biorxiv.org/content/10.1101/2020.10.10.334623v1.full.pdf
+
+# Ссылка на туториал
+https://cayenne.readthedocs.io/en/latest/cayenne.algorithms.html
