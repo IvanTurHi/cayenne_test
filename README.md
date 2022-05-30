@@ -21,3 +21,15 @@ https://www.biorxiv.org/content/10.1101/2020.10.10.334623v1.full.pdf
 
 # Ссылка на туториал
 https://cayenne.readthedocs.io/en/latest/cayenne.algorithms.html
+
+# Эксперименты с VGsim
+
+|  | direct | tau |
+| :---: | :---: | :---: |
+| samples | 47058.46/204.72  | 19798637903.32/9899318952.77 |
+| epidemic_time  | 22.564/1.080 | 3999750.98/1999874.745 |
+| number_of_infections | 5247497.04/348.75 | 1999664755518.23/999832377767.56 |
+| number_of_recoveries | 4705444.5/395.118 | 1979865721573.98/989932860794.80 |
+| work_time | 1.4738/0.247 | 4.108/2.081 |
+| peak_memory | 480237016.01/13323.546 | 2160240748.8/13506.419 |
+
